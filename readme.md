@@ -1,4 +1,4 @@
-# Untitled2-Checkpoint
+# Diabetes_Prediction
 
 ## Overview
 This project is designed to predict diabetes using various machine learning algorithms. The goal is to create a model that can accurately classify whether a patient has diabetes based on certain medical attributes.
@@ -17,7 +17,7 @@ This project is designed to predict diabetes using various machine learning algo
     ```
 2. Navigate to the project directory:
     ```sh
-    cd untitled2-checkpoint
+    cd Diabetes_Prediction
     ```
 3. Install the required dependencies:
     ```sh
